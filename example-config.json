@@ -1,0 +1,8 @@
+{
+  "access_key": "YOUR_PICOVOICE_API_KEY",
+  "ppn_file": "~/.config/bambam/bam-bam_en_linux_v3_0_0.ppn",
+  "rhn_file": "~/.config/bambam/iot_en_linux_v3_0_0.rhn",
+  "lock_door": "~/bin/lock-lock.sh",
+  "kitchen_light_yellow": "~/bin/kitchen-yellow.sh",
+  "kitchen_light_purple": "~/bin/kitchen-purple.sh"
+}
